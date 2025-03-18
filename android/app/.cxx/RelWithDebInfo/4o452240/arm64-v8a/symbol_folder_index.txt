@@ -1,0 +1,1 @@
+/Users/mac/Desktop/dev/flutter/wizh_trip_app/build/app/intermediates/cxx/RelWithDebInfo/4o452240/obj/arm64-v8a
